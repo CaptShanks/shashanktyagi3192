@@ -18,12 +18,18 @@ I, Shashank Tyagi, am a passionate DevOps/SRE/Infrastructure Engineer with exper
 - 💼 Any freelance work? do reach me over [email](mailto:tyagi3192@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
-## My Toolbox
+## Handyman's tools
+
+ <p float="left">
+  <a href="https://bit.ly/2W7a91W" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/do.gif"  height="75" />
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/aws.gif"  height="75" />
+  </a>
+ </p>
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/golang.gif"  height="90" />
-  </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/docker.gif"  height="80" /> 
   </a>
@@ -39,10 +45,33 @@ I, Shashank Tyagi, am a passionate DevOps/SRE/Infrastructure Engineer with exper
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/helm.gif"  height="75" />
   </a>
+    <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/golang.gif"  height="90" />
+  </a>
 
  </p>
 
-📊 **this week i spent my time on:**
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/grafana.gif" height="60" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/prometheus.gif" height="65" />
+  </a>
+</p>
+
+  
+ <p float="left">
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/postgresql.gif" height="90" />
+  </a>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/mongo.gif" height="80" />
+  </a>
+</p>
+
+## 📊 This week I utilized my time on:
 <!--START_SECTION:waka-->
 
 ```text
@@ -53,7 +82,7 @@ Python            1 min           ▒░░░░░░░░░░░░░░�
 ```
 
 
-📈 My Github Stats
+## 📈 My Github Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shashanktyagi3192&show_icons=true&theme=gotham" alt="shashanktyagi3192" />
 
