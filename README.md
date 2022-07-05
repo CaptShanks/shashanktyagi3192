@@ -73,14 +73,7 @@ I, Shashank Tyagi, am a passionate DevOps/SRE/Infrastructure Engineer with exper
 
 ## 📊 This week I utilized my time on:
 <!--START_SECTION:waka-->
-
-```text
-Kubernetes        49 mins         █████████████████░░░░░░░░   67.59 %
-Terraform         14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-AWS               7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-Python            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-```
-
+<!--END_SECTION:waka-->
 
 ## 📈 My Github Stats
 
