@@ -75,8 +75,8 @@ I, Shashank Tyagi, am a passionate DevOps/SRE/Infrastructure Engineer with exper
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   40 mins         █████████████▒░░░░░░░░░░░   53.07 %
-Other      22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.64 %
+Markdown   54 mins         ████████████▒░░░░░░░░░░░░   49.39 %
+Other      40 mins         █████████▒░░░░░░░░░░░░░░░   37.37 %
 ```
 
 <!--END_SECTION:waka-->
