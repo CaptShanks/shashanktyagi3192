@@ -75,8 +75,9 @@ I, Shashank Tyagi, am a passionate DevOps/SRE/Infrastructure Engineer with exper
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 hr 56 mins    ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-Other        1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+Python       2 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.12 %
+Bash         2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Other        1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
 ```
 
 <!--END_SECTION:waka-->
