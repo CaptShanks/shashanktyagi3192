@@ -75,9 +75,9 @@ I, Shashank Tyagi, am a passionate DevOps/SRE/Infrastructure Engineer with exper
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   50 mins         ███████████████▓░░░░░░░░░   63.18 %
-YAML        22 mins         ███████░░░░░░░░░░░░░░░░░░   27.75 %
-Other       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Terraform   1 hr 41 mins    ███████████████▓░░░░░░░░░   63.18 %
+YAML        44 mins         ███████░░░░░░░░░░░░░░░░░░   27.75 %
+Other       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
